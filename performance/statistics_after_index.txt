@@ -1,0 +1,3 @@
+Query: guest bookings (guestId = 1003)
+Logical reads: 2
+Note: after creating IX_bookings_guestId
